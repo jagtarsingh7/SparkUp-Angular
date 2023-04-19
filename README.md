@@ -26,7 +26,7 @@
         	<li>Post Feeds (PostsWidget/ PostWidget) - Like/Unlike, View Comments, Add/Remove Friend.</li>
             <li>Backend routes - /createPost, /getFeedPosts, getUserFriends.</li>
             <li>Deployed the backend on Azure and frontend on Vercel.</li>
-            <li>Redux Toolkit - State Management</li>
+            <li>Auth Service and Route Guards</li>
         </ul>
     </td>
     <td>Rahul Tiwari</td>
@@ -34,7 +34,7 @@
   <tr>
     <td>
     	<ul>
-        	<li>Material UI Theme Setup - Dark/Light.</li>
+        	<li>Designed UI using Tailwind CSS.</li>
             <li>User Profile Page - Assebled the widgets to design the profile page.</li>
             <li>MyPostWidget - Widget to create a new post (Upload Image/ Write Caption).</li>
             <li>Backend routes - /getUserPosts, /likePost.</li>
