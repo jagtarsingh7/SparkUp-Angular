@@ -15,18 +15,23 @@ PostWidget
 
 Rahul:
 Deployment
-/getUserFriends
 /createPost
 /getFeedPosts
+/getUserFriends
+FriendListWidget
+profilePage
 
 Sweta:
 /getUserPosts
 /likePost
 UserSchema
+MyPostsWidget
+PostsWidget
 
 Sandeep:
 /getUsers
 postSchema
+AdvertWidget
 
 Jagtar:
 /chats/receive
